@@ -94,3 +94,21 @@ res.save('res.jpg')
 * Возможно, переписать в консольную утилиту, которой на вход подаются имена исходного изображения и результата. Сейчас чтобы заставить код работать с другой картинкой, его надо исправлять.
 
 
+Скриншот 1
+
+![Скриншот 1 png](https://github.com/1Ne4/IDE/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD1.1.png)
+Скриншот 2
+
+![Скриншот 2 png](https://github.com/1Ne4/IDE/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%202.png)
+
+Скриншот 3
+
+![Скриншот 3 png](https://github.com/1Ne4/IDE/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%203.png)
+
+Исходная картинка 
+
+![Исходная картинка png](https://github.com/1Ne4/IDE/blob/main/img2.jpg)
+
+Результат
+
+![Результат png](https://github.com/1Ne4/IDE/blob/main/res.jpg)
